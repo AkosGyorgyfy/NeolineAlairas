@@ -139,7 +139,7 @@ def generate_premium_signature(data):
             <td style="background: linear-gradient(135deg, #B8860B 0%, #DAA520 50%, #FFD700 100%); padding: 20px; text-align: center; border-radius: 8px 8px 0 0;">
                 <img src="{logo_base64}" alt="ContiBus Logo" style="width: 100px; height: auto; margin-bottom: 10px;">
                 <div style="color: white; font-size: 20px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
-                    ContiBus NEOLINE Kft.
+                     NEOLINE Kft.
                 </div>
                 <div style="color: #fff; font-size: 14px; margin-top: 5px;">
                     Kalandozás • Utazás • Élmények
